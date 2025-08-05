@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import './Header.css';
 import photo from '../assets/photo.png';
-import resumePDF from '../assets/shubhranshu.pdf';
+import resumePDF from '../assets/new resume.pdf';
 import BookCallModal from './BookCallModal';
 
 const Header = () => {
